@@ -13,6 +13,15 @@ Create markdown-backed Kanban boards in [Obsidian](https://obsidian.md/)
 
 Find the plugin documentation here: [Obsidian Kanban Plugin Documentation](https://publish.obsidian.md/kanban/)
 
+## Development
+
+These instructions are inspired by the [sample obsidian plugin](https://github.com/obsidianmd/obsidian-sample-plugin).
+
+- Install requirements for the plugin using `npm i`
+- Compile to JS code by executing `npm run dev`
+  This will prompt you to choose a vault to devellop.
+- You can update the dependencies by running `npm update`
+
 ## Support
 
 If you find this plugin useful and would like to support its development, you can sponsor [me](https://github.com/mgmeyers) on Github, or buy me a coffee.
